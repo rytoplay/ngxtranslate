@@ -1,0 +1,8 @@
+{
+
+    "mousealert": {
+        "none": "There are no mice here",
+        "one" : "There is a mouse here",
+        "two" : "There are {{mousecount}} mice here"
+    }
+}

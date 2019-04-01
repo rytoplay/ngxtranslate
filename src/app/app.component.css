@@ -1,0 +1,35 @@
+.content {
+    max-width: 500px;
+    margin: auto;
+}
+
+.mousediv {
+    display: inline;
+    margin-top: 70px;
+    margin-right: 20px;
+}
+
+.mousediv .mouse {
+    width: 50px;
+}
+
+.sylvester {
+    background-image: url('/assets/images/sylvester.png');
+    width: 162px;
+    height: 311px;
+    float: left;
+}
+
+#proclamation {
+    float: left;
+    margin-top: 140px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16pt;
+}
+
+#titlebar button {
+    line-height: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
